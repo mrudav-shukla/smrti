@@ -1,0 +1,19 @@
+{
+  "name": "smrti",
+  "version": "1.0.0",
+  "description": "CLI utility for saving and fetching terminal commands on the go. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mrudav-shukla@github.com/mrudav-shukla/smrti.git"
+  },
+  "author": "mrudav-shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrudav-shukla/smrti/issues"
+  },
+  "homepage": "https://github.com/mrudav-shukla/smrti#readme"
+}
