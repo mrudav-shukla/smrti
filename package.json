@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "CLI utility for saving and fetching terminal commands on the go. ",
   "main": "index.js",
+  "bin": {
+    "smrti": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/mrudav-shukla/smrti/issues"
   },
-  "homepage": "https://github.com/mrudav-shukla/smrti#readme"
+  "homepage": "https://github.com/mrudav-shukla/smrti#readme",
+  "dependencies": {
+    "prompts": "^1.2.0",
+    "yargs": "^12.0.2"
+  }
 }
